@@ -12,7 +12,7 @@
 | 🔤 **A-B-C Hunt** | English alphabets A–Z |
 | 🕉️ **Hindi Swar** | Hindi vowels अ आ इ ई उ ऊ... |
 | ✍️ **Hindi Vyanjan** | Hindi consonants क ख ग घ... |
-| 🔢 **Numbers** | Count 1→20 in sequence |
+| 🔢 **Numbers** | Count 1→100 in sequence |
 | 🌟 **Word Builder** | Spell words letter by letter |
 | ➕ **Math Snake** | Solve addition, subtraction, multiplication |
 | 🔷 **Shape Hunt** | Identify geometric shapes |
